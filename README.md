@@ -1,5 +1,5 @@
-# Electric-Vehicle-Data-Analsysis
-Electric vehicle data analytics involves collecting and analyzing a vast array of data generated from EVs, charging stations, and energy grids. This data can be used to optimize the efficiency of charging networks, predict user behavior, and demonstrate carbon emission reductions.
+# Electric-Vehicle-Data-Analysis
+Electric vehicle data analysis involves collecting and analyzing a vast array of data generated from EVs, charging stations, and energy grids. This data can be used to optimize the efficiency of charging networks, predict user behavior, and demonstrate carbon emission reductions.
 The rapid adoption of Electric Vehicles (EVs) in India presents an exciting opportunity to analyze sales trends and market dynamics. This project provides a detailed analysis of EV sales data across various states, exploring insights such as top-selling states, popular vehicle types, and category preferences. 
 
 KPI's Requirement
